@@ -2,3 +2,4 @@
 
 import assignment
 
+print (tempConversion(30, "F"))
