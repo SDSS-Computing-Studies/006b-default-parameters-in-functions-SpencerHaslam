@@ -12,8 +12,12 @@ def tempConversion(tempnum, tipe):
 
 
 
-def factorPair():
-    pass
+def factorPair(number, factor):
+    fact = int(number / factor)
+    number = int(number)
+    answer = [fact,number]
+    return answer
+    
 
 
 def cosineLaw():
