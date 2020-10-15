@@ -99,7 +99,7 @@ We will use the math module to access a method called math.cos
 math.cos will tell us the cosine of an angle if it is in radians,
 but since we are entering the angle measure in degrees, 
 ou will need to create a function called toRadians()
-
+=======================================================
 create the function toRadians()
 it will take 1 input value, a float that is the measure of the angle in degrees
 The function will convert the measure from degrees to radians
@@ -110,13 +110,13 @@ math.pi radians = 180 degrees
        math.pi         180
 
 the return value will be a float value that is the angle measure in radians
-
+=============================================================
 
 create a function called quadratic.  The function will require 3 float parameters.
 The function will use the quadratic formula to find the solutions to a
 quadratic equation in the format ax^2 + bx + c = 0 and will return
 a sorted list of the 2 solutions
-
+================================================================
 create a function called solution. The function will require 2 float parameters
 as inputs.  Since the quadratic formula will generate 2 answers, one negative and
 one positive, this will help us decide which should be the length of the missing side.
