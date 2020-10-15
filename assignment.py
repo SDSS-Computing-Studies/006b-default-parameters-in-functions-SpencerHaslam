@@ -20,8 +20,8 @@ def factorPair(number, factor):
     
 
 
-def cosineLaw():
-    pass
+def cosineLaw(number1,number2,angle,bool):
+    
 
 def toRadians():
     pass
